@@ -4,7 +4,7 @@
 
 👀 I’m interested in ML, particularly in the fields of natural language processing and computer vision.
 
-🌱 I’m currently diving into ML libraries like TensorFlow to strengthen my skills and understanding.
+🌱 I’m currently diving into ML libraries like PyTorch to strengthen my skills and understanding.
 
 💼 I’m looking to collaborate on projects related to ML, especially those focusing on innovative applications or solving real-world problems.
 
